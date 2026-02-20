@@ -1,0 +1,19 @@
+serverless-data-api/
+│
+├── infrastructure/
+│   ├── template.yaml
+│
+├── lambdas/
+│   ├── process_sales/
+│   │   └── app.py
+│   ├── get_sales/
+│   │   └── app.py
+│
+├── diagrams/
+│   └── architecture.png
+│
+├── sample-data/
+│   └── sales.csv
+│
+├── README.md
+└── .gitignore
