@@ -1,0 +1,11 @@
+Inside terraform/:
+
+terraform init
+terraform plan
+terraform apply
+
+This deploys your entire architecture.
+
+Infrastructure defined.
+Reproducible.
+Professional.
