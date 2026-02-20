@@ -1,0 +1,15 @@
+infrastructure/
+│
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── provider.tf
+├── iam.tf
+├── s3.tf
+├── dynamodb.tf
+├── lambda.tf
+├── api_gateway.tf
+├── cognito.tf
+├── sqs.tf
+├── kinesis.tf
+└── terraform.tfvars
